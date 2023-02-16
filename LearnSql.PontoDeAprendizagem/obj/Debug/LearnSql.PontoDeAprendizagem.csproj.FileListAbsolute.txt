@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\bin\Debug\LearnSql.PontoDeAprendizagem.exe.config
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\bin\Debug\LearnSql.PontoDeAprendizagem.exe
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\bin\Debug\LearnSql.PontoDeAprendizagem.pdb
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.Properties.Resources.resources
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.exe
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.pdb
+C:\Users\Bruno\source\repos\LearnSql\LearnSql.PontoDeAprendizagem\obj\Debug\LearnSql.PontoDeAprendizagem.frmPDA.resources
